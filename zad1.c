@@ -19,7 +19,7 @@ double licz(double a, double b, int iloscTrapezow) {
     return suma * h;
 }
 
-int main() {
+int main1() {
     int p;
     printf("Podaj ilosc procesow: ");
     scanf("%d", &p);

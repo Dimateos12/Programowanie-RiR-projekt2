@@ -5,7 +5,7 @@
 #include <math.h>
 
 double func(double x) {
-    return 4*x - 6*x + 5;
+    return 4 * x - 6 * x + 5;
 }
 
 double licz(double a, double b, int iloscTrapezow) {
@@ -45,7 +45,6 @@ int main1() {
         }
 
     }
-
 
 
     return 0;
